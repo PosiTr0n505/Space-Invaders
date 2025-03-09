@@ -1,7 +1,7 @@
 # 🎮 Space Invaders - Retro Game  
 
 
-![Alt Text](space invaders.png)
+[space invaders.png](https://github.com/PosiTr0n505/Space-Invaders/blob/main/space%20invaders.png)
 
 ## 📌 Description du projet  
 Ce projet est une recréation du jeu classique **Space Invaders**, développée en utilisant uniquement **HTML, CSS et JavaScript**. L’objectif était de reproduire l'expérience rétro du jeu tout en améliorant mes compétences en développement web.
